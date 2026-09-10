@@ -10,8 +10,5 @@ The system trains an AI model on data distributed across multiple parties (hospi
 - **Risk-Aware Layer:** Enhances the model's ability to detect complex patterns and rare fraud cases.
 - **Differential Privacy:** Applies clipping and perturbation (Clipping & Perturbation) to protect model updates.
 
-## 📦 Requirements
-To run the code, make sure the following libraries are installed:
-```bash
-pip install torch pandas numpy scikit-learn matplotlib
+
 <img width="1408" height="768" alt="Model" src="https://github.com/user-attachments/assets/f314d7c4-4ce9-409e-b3d2-b367be8b5a6a" />
